@@ -20,7 +20,17 @@ Key features
 Motivation
 ----------
 I couldn't find a text based *Touhou danmaku*(弾幕) game so I thought It might be nice to implement one
-I challenged myself to complete this game in 6 hours, and I finished the game in about 4 hours combined
+I challenged myself to complete this game in 6 hours, and I finished the game in about 4 hours combined.
+
+This game is a coursework written for:
+
+    Week4 extension (due 2015/10/26)
+    Programming and Algorithms I (COMS10002)
+    University of Bristol, United Kingdom
+
+Work handed in as `wl14928` 
+
+If you're from UoB too, you can contact me with that user name (`name@bristol.ac.uk>`)
 
 How to build
 ------------
